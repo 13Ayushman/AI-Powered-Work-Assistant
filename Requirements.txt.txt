@@ -1,0 +1,7 @@
+flask
+groq
+tkinter
+win32com.client
+smtplib
+EmailMessage
+render_template
